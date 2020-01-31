@@ -4,7 +4,7 @@ An example webpage running in Python with Flask for HTTP processing/handling.
 
 # Setup
 
-- (pyenv)[https://github.com/pyenv/pyenv-installer]
+- [pyenv Installer](https://github.com/pyenv/pyenv-installer)
 
 ```bash
 pyenv install 3.8.1;
