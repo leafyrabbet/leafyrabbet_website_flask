@@ -8,10 +8,10 @@ verify_ssl = true
 [packages]
 uwsgi = "*"
 flask = "*"
-pymustache = "*"
 sqlalchemy = "*"
 numpy = "*"
 pandas = "*"
+pystache = "*"
 
 [requires]
 python_version = "3.8"
